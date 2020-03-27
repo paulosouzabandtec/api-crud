@@ -2,7 +2,7 @@
 
 Instale as dependências usando o npm i <br>
 Crie um database chamado de 'aluno' <br>
-Faça uma migração da base usando o npx sequelize de:migrate <br>
+Faça uma migração da base usando o npx sequelize db:migrate <br>
 Execute o servidor usando o npm run dev
 
 Rotas:<br> <br>
